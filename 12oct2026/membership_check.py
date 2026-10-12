@@ -1,1 +1,1 @@
-departmentes
+departmentes=["cse","ece",]
