@@ -1,5 +1,5 @@
 # a householder consumes 275 units of electicty. the billing systen needs to determine the number of complete groups of 50 units and the remaining units. use appropriate arithmetic operations
-units = int(input("how many units are consumed by a househollder"))
+units = int(input("how many units are consumed by a householder"))
 
 complete_group = units // 50
 remaining_units= units % 50
