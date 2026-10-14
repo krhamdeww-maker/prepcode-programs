@@ -1,2 +1,2 @@
-def factrioal(n):
-    
+def
+
